@@ -64,7 +64,6 @@ C:\Users\Kyle Johnson\OneDrive\VS Community\BlueBadge\ElevenNote\ElevenNote.WebA
 C:\Users\Kyle Johnson\OneDrive\VS Community\BlueBadge\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Kyle Johnson\OneDrive\VS Community\BlueBadge\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.Owin.dll
 C:\Users\Kyle Johnson\OneDrive\VS Community\BlueBadge\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Kyle Johnson\OneDrive\VS Community\BlueBadge\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
 C:\Users\Kyle Johnson\OneDrive\VS Community\BlueBadge\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.Owin.Security.dll
 C:\Users\Kyle Johnson\OneDrive\VS Community\BlueBadge\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
 C:\Users\Kyle Johnson\OneDrive\VS Community\BlueBadge\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.Owin.Security.Google.dll
